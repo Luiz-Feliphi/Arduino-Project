@@ -14,4 +14,5 @@ pip install pyserial
 ![Gsreadl](https://static.wixstatic.com/media/bf66ac_5c19803b02694f3c9da2ec73351535ab~mv2.png/v1/fit/w_940%2Ch_788%2Cal_c%2Cq_80,enc_auto/file.jpg)
 ```python
 pip install gspread
+pip install gspread-dataframe
 ```
