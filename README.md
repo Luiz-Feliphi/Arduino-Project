@@ -1,5 +1,5 @@
 # Arduino-Project
-##### Codigo python feito para salvar em uma planilha excel alias esse codigo foi feito usando a IA __ChatGPT__ da __Microsoft__ e esse projeto foi usado para estar criando uma chocadeira no __Instituto Federal Goiano Campus Cristalina__.
+##### Codigo __Python__ feito para salvar em uma planilha excel e tambem existem um que manda a uma planilha Google basta ter uma conta de serviço pelo __Google Clound API__ e linka ela ao codigo, alias esse codigo foi feito usando a IA __ChatGPT__ da __Microsoft__  que tambem tivemos ajuda com ele para criar o codigo em __C++__ para o __Arduino UNO R3 SMD CH340__. Esse projeto foi usado para estar criando uma chocadeira no __Instituto Federal Goiano Campus Cristalina__.
 
 # Bibliotecas Python usadas
 
